@@ -1,0 +1,11 @@
+# Logs
+*.log
+cleanup_log_*.txt
+
+# Temporary files
+_generate_completed.sql
+completed_episodes.txt
+
+# OS
+Thumbs.db
+.DS_Store
